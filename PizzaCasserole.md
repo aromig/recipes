@@ -18,6 +18,6 @@ Serves: 8
   * 1/2 of pasta mixture on the bottom
   * 1/2 of Meat and vegetables on top of the pasta
   * 1/2 of the cheese (2 cups) on top of the meat
-  * Single layer of pepperoni
+  * Single layer of pepperoni on top of cheese
 5. Repeat step 4 for another layer.
 6. Cover and cook on low heat for 2.5 hours.
