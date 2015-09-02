@@ -1,6 +1,6 @@
 # White Chicken Chili
 ![alt-text](https://raw.githubusercontent.com/aromig/recipes/master/photos/whitechickenchili.png "Photo: White Chicken Chili")
-Servings: 6
+Serves: 6
 ## Ingredients
 * 1.5lb skinless, boneless chicken breasts or thighs (defrosted & cubed)
 * 15.25oz can of whole kernel corn
