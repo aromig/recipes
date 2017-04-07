@@ -23,4 +23,4 @@ Serves: About 4
 7. Stir in soy sauce and add meat, eggs, &amp; vegetables.
 8. Heat for 2-3 minutes.
 
-### Enjoy!
+### Masarap!
