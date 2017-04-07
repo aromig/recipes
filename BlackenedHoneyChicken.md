@@ -1,4 +1,4 @@
-![alt-text](https://raw.githubusercontent.com/aromig/recipes/master/photos/blackenedhoneychicken.jpg "Photo: Blackened Honey Chicken")
+![Blackened Honey Chicken](https://raw.githubusercontent.com/aromig/recipes/master/photos/blackenedhoneychicken.jpg "Photo: Blackened Honey Chicken")
 # Blackened Honey Chicken
 Serves: 8
 
