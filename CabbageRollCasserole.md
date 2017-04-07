@@ -14,7 +14,7 @@ Serves: 6-8
 * 1 can (29oz) tomato sauce
 * 2 cups cooked rice
 * &frac12; large head of cabbage, coarsely chopped
-* 1/2 cup grated parmesan cheese
+* &frac12; cup grated parmesan cheese
 * 1 cup shredded mozzarella cheese
 
 ## Directions
