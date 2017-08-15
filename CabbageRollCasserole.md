@@ -1,3 +1,4 @@
+![Cabbage Roll Casserole](https://raw.githubusercontent.com/aromig/recipes/master/photos/CabbageRollCasserole.jpg "Photo: Cabbage Roll Casserole")
 # Cabbage Roll Casserole
 Serves: 6-8
 
