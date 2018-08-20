@@ -10,7 +10,7 @@ Serves: 4-6
 * 6 oz can of tomato paste
 * 1 clove of garlic, minced
 * 1 tsp dried basil
-* 1 tsp dried oregano
+* 1 tsp dried italian seasoning
 * 2 tsp sugar
 * ½ tsp salt
 * ½ tsp pepper
