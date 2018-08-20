@@ -21,7 +21,7 @@ Serves: 4-6
 2. Brown ground beef (or turkey) until no longer pink. Drain fat as necessary.
 3. Add tomato sauce, tomato paste, and dry ingredients to pan.
 4. Stir and bring to a boil.
-5. Cover and simmer on low heat for 30-45 minutes, stirring occasionally
+5. Cover and simmer on low heat for 30-45 minutes, stirring occasionally.
 6. Serve sauce over cooked spaghetti (according to package directions).
 
 _**Perfecto!**_
