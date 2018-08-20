@@ -1,7 +1,11 @@
 # White Chicken Chili
+
 ![alt-text](https://raw.githubusercontent.com/aromig/recipes/master/photos/whitechickenchili.png "Photo: White Chicken Chili")
+
 Serves: 6
+
 ## Ingredients
+
 * 1.5lb skinless, boneless chicken breasts or thighs (defrosted & cubed)
 * 15.25oz can of whole kernel corn
 * 10.75oz can of condensed cream of chicken soup
@@ -13,6 +17,7 @@ Serves: 6
 * 3 cups white rice
 
 ## Directions
+
 1. Start cooking chicken over medium-high heat while chopping the green pepper.
 2. Add green pepper, chili powder, and cumin to pan with chicken and cook until the chicken is cooked through and pepper is tender, stirring often.
 3. Drain and rinse corn & beans and combine in a large pot with soup and water.

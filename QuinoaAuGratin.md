@@ -1,7 +1,9 @@
 # Quinoa Au Gratin
+
 Serves: 8
 
 ## Ingredients
+
 * 1 cup uncooked quinoa
 * 2 tbsp butter
 * 2 tbsp flour
@@ -12,9 +14,10 @@ Serves: 8
   * 1 tbsp melted butter
 
 ## Directions
+
 1. Preheat oven to 350&deg;.
 2. Cook quinoa per package directions
-  * I usually wash quinoa & boil in 2 cups of water for every 1 cup of quinoa for 15 minutes.
+    * I usually wash quinoa & boil in 2 cups of water for every 1 cup of quinoa for 15 minutes.
 3. While quinoa cooks, melt butter in a medium saucepan over medium heat.
 4. Add flour and cook into a roux, until light brown with a nutty aroma.
 5. Add milk to the roux, 1 cup at a time, whisking frequently to prevent clumping.
@@ -25,4 +28,4 @@ Serves: 8
 10. Sprinkle topping over quinoa mixture and bake for about 10 minutes.
 11. Set oven to broil for about 1 1/2 minutes to give dish a browned crust.
 
-### Noms!
+_**Noms!**_

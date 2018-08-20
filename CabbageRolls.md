@@ -1,7 +1,9 @@
 # Cabbage Rolls
+
 Serves: 6
 
 ## Ingredients
+
 * 12 leaves of cabbage
 * Filling
   * 1 cup cooked white rice
@@ -15,6 +17,7 @@ Serves: 6
   * 1 tbsp brown sugar
 
 ## Directions
+
 1. Preheat oven to 350&deg;.
 2. Bring a large pot of water to a boil. Boil cabbage leaves for 2 minutes and drain.
 3. In a large bowl, combine cooked rice, egg, milk, meat, salt, and pepper.
@@ -24,4 +27,4 @@ Serves: 6
 7. Combine sauce ingredients and pour over cabbage rolls.
 8. Bake for 1 hour.
 
-### Das schmeckt gut!
+_**Das schmeckt gut!**_

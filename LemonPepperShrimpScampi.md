@@ -1,7 +1,9 @@
 # Lemon Pepper Shrimp Scampi
+
 Serves: 6
 
 ## Ingredients
+
 * 1 cup uncooked orzo
 * 1 tbsp parsley flakes
 * 1/2 tsp salt, divided
@@ -12,6 +14,7 @@ Serves: 6
 * 1/4 tsp ground black pepper
 
 ## Directions
+
 1. Remove tails from shrimp if desired (I do!).
 2. Cook orzo per package directions, omitting salt and fat (if it calls for it). Drain and place into a medium bowl. Stir in parsley, 1/4 tsp salt, and 1 tbsp butter. Cover and keep warm.
 3. While orzo cooks, melt 1 tbsp butter in a large non-stick skillet over medium-high heat.
@@ -21,4 +24,4 @@ Serves: 6
 7. Stir in shrimp and add lemon juice and pepper. Cook for 1 minute or until shrimp are done.
 8. Serve shrimp over a bed of orzo or separately if desired.
 
-### Yum!
+_**Yum!**_

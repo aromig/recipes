@@ -1,10 +1,13 @@
-![Cabbage Roll Casserole](https://raw.githubusercontent.com/aromig/recipes/master/photos/CabbageRollCasserole.jpg "Photo: Cabbage Roll Casserole")
 # Cabbage Roll Casserole
+
+![Cabbage Roll Casserole](https://raw.githubusercontent.com/aromig/recipes/master/photos/CabbageRollCasserole.jpg "Photo: Cabbage Roll Casserole")
+
 Serves: 6-8
 
 > Want the goodness of cabbage rolls without the rolling? Maybe serving at potluck? Make it into a casserole!
 
 ## Ingredients
+
 * 4 tbsp olive oil, separated
 * 3 cloves minced garlic
 * 1 lb ground beef (or turkey)
@@ -19,6 +22,7 @@ Serves: 6-8
 * 1 cup shredded mozzarella cheese
 
 ## Directions
+
 1. Heat 2 tbsp olive oil in a deep skillet over medium heat and add garlic for 1 minute.
 2. Increase heat to high and add the meat and season well with salt & pepper. Cook until browned, crumbling as it cooks.
 3. Stir in thyme, paprika, and brown sugar. Cook for a couple more minutes before adding the tomato sauce. Swirl about &frac14; cup of water in the bottom of the tomato sauce can and add that as well.
@@ -32,4 +36,4 @@ Serves: 6-8
 11. Remove foil and sprinkle with cheeses. Bake uncovered for 5 minutes, until cheese has melted.
 12. Remove from oven promptly and enjoy!
 
-### Bitte Schön!
+_**Bitte Schön!**_
