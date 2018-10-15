@@ -16,12 +16,13 @@ Servers 4-6
 * 1 tsp minced garlic
 * 1 lb ground beef or turkey
 * 1 15oz can tomato sauce
+* 1 15oz can red kidney beans, drained & rinsed
 
 ## Directions
 
 1. Heat olive oil in a medium sauce pan over medium heat and add garlic, cooking for 1 minute.
 2. Increase heat to medium high and add the meat. Cook until browned, crumbling as it cooks.
-3. Stir in the tomato sauce.
+3. Stir in the tomato sauce and beans.
 4. Mix seasoning ingredients together and stir into meat mixture.
 5. Bring to a boil and then lower to a simmer.
 6. Cover, stirring occassionally, for at least 15 minutes.
