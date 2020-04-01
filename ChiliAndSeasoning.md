@@ -4,19 +4,19 @@ Servers 4-6
 
 ## Seasoning Ingredients
 
-* 2 tbsp chili powder
-* 2 tsp ground cumin
-* ¼ tsp cayenne pepper
-* 1 tsp salt
-* ¼ tsp ground pepper
+- 2 tbsp chili powder
+- 2 tsp ground cumin
+- ¼ tsp cayenne pepper
+- 1 tsp salt
+- ¼ tsp ground pepper
 
 ## Chili Ingredients
 
-* 1 tbsp olive oil
-* 1 tsp minced garlic
-* 1 lb ground beef or turkey
-* 1 15oz can tomato sauce
-* 1 15oz can red kidney beans, drained & rinsed
+- 1 tbsp olive oil
+- 1 tsp minced garlic
+- 1 lb ground beef or turkey
+- 1 29oz can (or 2x 15oz cans) tomato sauce
+- 1 15oz can red kidney beans, drained & rinsed
 
 ## Directions
 
