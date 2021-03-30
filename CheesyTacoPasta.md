@@ -10,6 +10,7 @@ Servings: 8
 - 1 pound ground beef or turkey
 - 2 tbsp taco seasoning
 - &frac34; cup water
+- 16oz taco sauce
 - 1 cup shredded cheddar cheese
 
 ## Directions
