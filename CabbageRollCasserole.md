@@ -1,3 +1,10 @@
+---
+title: "Cabbage Roll Casserole"
+description: ""
+coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/CabbageRollCasserole.jpg"
+tags: ["bake", "casserole", "cabbage"]
+---
+
 # Cabbage Roll Casserole
 
 ![Cabbage Roll Casserole](https://raw.githubusercontent.com/aromig/recipes/master/photos/CabbageRollCasserole.jpg "Photo: Cabbage Roll Casserole")
@@ -8,18 +15,18 @@ Serves: 6-8
 
 ## Ingredients
 
-* 4 tbsp olive oil, separated
-* 3 cloves minced garlic
-* 1 lb ground beef (or turkey)
-* 1 tsp thyme
-* 2 tsp paprika
-* salt and pepper to taste
-* 2 tbsp brown sugar
-* 1 can (29oz) tomato sauce
-* 2 cups cooked rice
-* &frac12; large head of cabbage, coarsely chopped
-* &frac12; cup grated parmesan cheese
-* 1 cup shredded mozzarella cheese
+- 4 tbsp olive oil, separated
+- 3 cloves minced garlic
+- 1 lb ground beef (or turkey)
+- 1 tsp thyme
+- 2 tsp paprika
+- salt and pepper to taste
+- 2 tbsp brown sugar
+- 1 can (29oz) tomato sauce
+- 2 cups cooked rice
+- &frac12; large head of cabbage, coarsely chopped
+- &frac12; cup grated parmesan cheese
+- 1 cup shredded mozzarella cheese
 
 ## Directions
 
