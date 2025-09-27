@@ -1,7 +1,7 @@
 ---
 title: "Fried Rice"
 description: ""
-coverImage: ""
+coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/friedrice.jpg"
 tags: ["rice", "asian"]
 ---
 
