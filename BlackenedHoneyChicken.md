@@ -1,3 +1,10 @@
+---
+title: "Blackened Honey Chicken"
+description: ""
+coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/blackenedhoneychicken.jpg"
+tags: ["chicken", "cajun", "honey", "spicy"]
+---
+
 # Blackened Honey Chicken
 
 ![Blackened Honey Chicken](https://raw.githubusercontent.com/aromig/recipes/master/photos/blackenedhoneychicken.jpg "Photo: Blackened Honey Chicken")
@@ -6,15 +13,15 @@ Serves: 8
 
 ## Ingredients
 
-* 4 boneless skinless chicken breasts (or 8 breast halves)
-* 2 tsp paprika
-* 1/2 tsp salt
-* 1 tsp cayenne pepper
-* 1 tsp ground cumin
-* 1 tsp thyme
-* 1/2 tsp pepper
-* honey
-* olive oil
+- 4 boneless skinless chicken breasts (or 8 breast halves)
+- 2 tsp paprika
+- 1/2 tsp salt
+- 1 tsp cayenne pepper
+- 1 tsp ground cumin
+- 1 tsp thyme
+- 1/2 tsp pepper
+- honey
+- olive oil
 
 ## Directions
 

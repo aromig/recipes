@@ -1,3 +1,10 @@
+---
+title: "Cheesy Taco Pasta"
+description: ""
+coverImage: ""
+tags: ["taco", "pasta", "cheese"]
+---
+
 # Cheesy Taco Pasta
 
 **Time:** 5 min Prep / 20 min Cook / 25 min Total

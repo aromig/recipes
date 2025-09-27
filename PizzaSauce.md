@@ -1,3 +1,10 @@
+---
+title: "Pizza Sauce"
+description: ""
+coverImage: ""
+tags: ["pizza", "sauce"]
+---
+
 # Pizza Sauce
 
 ## Ingredients

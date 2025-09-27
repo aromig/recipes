@@ -1,20 +1,27 @@
+---
+title: "Cabbage Rolls"
+description: ""
+coverImage: ""
+tags: ["cabbage", "German"]
+---
+
 # Cabbage Rolls
 
 Serves: 6
 
 ## Ingredients
 
-* 12 leaves of cabbage
-* Filling
-  * 1 cup cooked white rice
-  * 1 egg, beaten
-  * 1/4 cup milk
-  * 1lb lean ground beef (or turkey)
-  * 1 1/4 tsp salt
-  * 1 1/4 tsp ground black pepper
-* Sauce
-  * 2 cans (8oz ea) tomato sauce
-  * 1 tbsp brown sugar
+- 12 leaves of cabbage
+- Filling
+  - 1 cup cooked white rice
+  - 1 egg, beaten
+  - 1/4 cup milk
+  - 1lb lean ground beef (or turkey)
+  - 1 1/4 tsp salt
+  - 1 1/4 tsp ground black pepper
+- Sauce
+  - 2 cans (8oz ea) tomato sauce
+  - 1 tbsp brown sugar
 
 ## Directions
 

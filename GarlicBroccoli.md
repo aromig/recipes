@@ -1,15 +1,22 @@
+---
+title: "Garlic Broccoli"
+description: ""
+coverImage: ""
+tags: ["side", "broccoli", "vegetable"]
+---
+
 # Garlic Broccoli
 
 Serves: 4-6
 
 ## Ingredients
 
-* 1 1/2lb broccoli
-* 1/2 tbsp olive oil
-* 1 clove minced garlic
-* 1/4 tsp salt
-* 1/8 tsp pepper
-* 3/4 cup water
+- 1 1/2lb broccoli
+- 1/2 tbsp olive oil
+- 1 clove minced garlic
+- 1/4 tsp salt
+- 1/8 tsp pepper
+- 3/4 cup water
 
 ## Directions
 

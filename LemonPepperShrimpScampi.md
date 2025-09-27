@@ -1,17 +1,24 @@
+---
+title: "Lemon Pepper Shrimp Scampi"
+description: ""
+coverImage: ""
+tags: ["shrimp"]
+---
+
 # Lemon Pepper Shrimp Scampi
 
 Serves: 6
 
 ## Ingredients
 
-* 1 cup uncooked orzo
-* 1 tbsp parsley flakes
-* 1/2 tsp salt, divided
-* 3 tbsp butter, divided
-* 1 1/2 lb peeled & deveined jumbo shrimp
-* 2 tsp minced garlic
-* 2 tbsp lemon juice
-* 1/4 tsp ground black pepper
+- 1 cup uncooked orzo
+- 1 tbsp parsley flakes
+- 1/2 tsp salt, divided
+- 3 tbsp butter, divided
+- 1 1/2 lb peeled & deveined jumbo shrimp
+- 2 tsp minced garlic
+- 2 tbsp lemon juice
+- 1/4 tsp ground black pepper
 
 ## Directions
 

@@ -1,3 +1,10 @@
+---
+title: "Fried Rice"
+description: ""
+coverImage: ""
+tags: ["rice", "asian"]
+---
+
 # Fried Rice
 
 ![Fried Rice](https://raw.githubusercontent.com/aromig/recipes/master/photos/friedrice.jpg "Photo: Fried Rice")
@@ -6,15 +13,15 @@ Serves: About 4
 
 ## Ingredients
 
-* 4 cups of cold cooked white rice (1-2 days old in fridge)
-* 4 tbsp oil (vegetable or canola), separated
-* 2 tbsp soy sauce
-* 3 large eggs
-* meat of your choice (chicken, beef, pork, shrimp, etc)
-* 8 oz mixed vegetables (or the vegetables of your choice)
-* 1 tsp minced garlic
-* &frac12; tsp ginger
-* pepper to taste
+- 4 cups of cold cooked white rice (1-2 days old in fridge)
+- 4 tbsp oil (vegetable or canola), separated
+- 2 tbsp soy sauce
+- 3 large eggs
+- meat of your choice (chicken, beef, pork, shrimp, etc)
+- 8 oz mixed vegetables (or the vegetables of your choice)
+- 1 tsp minced garlic
+- &frac12; tsp ginger
+- pepper to taste
 
 ## Directions
 

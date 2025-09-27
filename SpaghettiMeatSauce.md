@@ -1,19 +1,26 @@
+---
+title: "Spaghetti Meat Sauce"
+description: ""
+coverImage: ""
+tags: ["spaghetti", "sauce"]
+---
+
 # Spaghetti Meat Sauce
 
 Serves: 4-6
 
 ## Ingredients
 
-* 1 tbsp olive oil
-* 1 lb ground beef or turkey
-* 29 oz can (or 2 15oz cans) of tomato sauce
-* 6 oz can of tomato paste
-* 1 clove of garlic, minced
-* 1 tsp dried basil
-* 1 tsp dried italian seasoning
-* 2 tsp sugar
-* ½ tsp salt
-* ½ tsp pepper
+- 1 tbsp olive oil
+- 1 lb ground beef or turkey
+- 29 oz can (or 2 15oz cans) of tomato sauce
+- 6 oz can of tomato paste
+- 1 clove of garlic, minced
+- 1 tsp dried basil
+- 1 tsp dried italian seasoning
+- 2 tsp sugar
+- ½ tsp salt
+- ½ tsp pepper
 
 ## Directions
 

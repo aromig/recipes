@@ -1,3 +1,10 @@
+---
+title: "White Chicken Chili"
+description: ""
+coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/whitechickenchili.png"
+tags: ["chicken", "chili"]
+---
+
 # White Chicken Chili
 
 ![alt-text](https://raw.githubusercontent.com/aromig/recipes/master/photos/whitechickenchili.png "Photo: White Chicken Chili")
@@ -6,15 +13,15 @@ Serves: 6
 
 ## Ingredients
 
-* 1.5lb skinless, boneless chicken breasts or thighs (defrosted & cubed)
-* 15.25oz can of whole kernel corn
-* 10.75oz can of condensed cream of chicken soup
-* 2 15.5oz cans of cannellini beans
-* 4tsp chili powder
-* 2tsp ground cumin seed
-* 1 medium green pepper (chopped)
-* 3/4 cup water
-* 3 cups white rice
+- 1.5lb skinless, boneless chicken breasts or thighs (defrosted & cubed)
+- 15.25oz can of whole kernel corn
+- 10.75oz can of condensed cream of chicken soup
+- 2 15.5oz cans of cannellini beans
+- 4tsp chili powder
+- 2tsp ground cumin seed
+- 1 medium green pepper (chopped)
+- 3/4 cup water
+- 3 cups white rice
 
 ## Directions
 

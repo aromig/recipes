@@ -1,3 +1,10 @@
+---
+title: "Chili"
+description: ""
+coverImage: ""
+tags: ["chili", "seasoning"]
+---
+
 # Chili & Seasoning
 
 Servers 4-6

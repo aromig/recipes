@@ -1,3 +1,10 @@
+---
+title: "BBQ Sauce"
+description: ""
+coverImage: ""
+tags: ["sauce", "bbq", "barbeque"]
+---
+
 # BBQ Sauce
 
 **Time:** 5 min Prep / 10 min Cook / 15 min Total
