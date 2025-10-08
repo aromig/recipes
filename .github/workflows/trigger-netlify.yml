@@ -1,0 +1,22 @@
+# .github/workflows/trigger-netlify.yml
+name: Trigger Netlify Rebuild
+
+on:
+  # This action is triggered on pushes to the specified branch.
+  push:
+    branches:
+      - main # Or your default branch name (e.g., master)
+    # We specify the file paths to watch.
+    # This prevents the action from running on every push.
+    paths:
+      - "**.md" # Only runs when .md files are changed in any directory.
+      - "path/to/specific/file.md" # You can be more specific if needed.
+
+jobs:
+  trigger-deploy:
+    name: Trigger Netlify deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Netlify Build Hook
+        # The 'curl' command sends a POST request to the build hook.
+        run: curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_HOOK }}
