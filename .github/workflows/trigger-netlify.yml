@@ -5,12 +5,11 @@ on:
   # This action is triggered on pushes to the specified branch.
   push:
     branches:
-      - main # Or your default branch name (e.g., master)
+      - master # Or your default branch name (e.g., master)
     # We specify the file paths to watch.
     # This prevents the action from running on every push.
     paths:
       - "**.md" # Only runs when .md files are changed in any directory.
-      - "path/to/specific/file.md" # You can be more specific if needed.
 
 jobs:
   trigger-deploy:
