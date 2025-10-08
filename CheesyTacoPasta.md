@@ -13,12 +13,12 @@ Servings: 8
 
 ## Ingredients
 
-- 16oz pasta (e.g. medium shells, elbow macaroni)
+- 16 oz pasta (e.g. medium shells, elbow macaroni)
 - 1 pound ground beef, turkey, or chicken
 - 4 tbsp taco seasoning
-- 8oz cream cheese
+- 8 oz cream cheese
 - &frac23; cup water
-- 8oz taco sauce
+- 8 oz taco sauce
 - 1&frac14; cup shredded cheddar cheese
 
 ## Directions
