@@ -7,6 +7,8 @@ tags: ["taco", "pasta", "cheese"]
 
 # Cheesy Taco Pasta
 
+![Cheesy Taco Pasta](https://raw.githubusercontent.com/aromig/recipes/master/photos/CheeseTacoPasta.jpg "Photo: Cheesy Taco Pasta")
+
 **Time:** 5 min Prep / 20 min Cook / 25 min Total
 
 Servings: 8
