@@ -1,7 +1,7 @@
 ---
 title: "Cheesy Taco Pasta"
 description: ""
-coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/CheesyTacoPasta.jpg"
+coverImage: "https://raw.githubusercontent.com/aromig/recipes/master/photos/CheeseTacoPasta.jpg"
 tags: ["taco", "pasta", "cheese"]
 ---
 
