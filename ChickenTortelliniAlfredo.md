@@ -22,6 +22,10 @@ tags:
 - 1 bell pepper, diced
 - &frac12; cup chopped fresh spinach
 
+### Tortellini
+
+- Your favorite tortellini, be it fresh, frozen, boxed or bagged. About 16-19 oz.
+
 ### Sauce
 
 - 2 tbsp butter
