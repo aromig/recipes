@@ -1,11 +1,11 @@
 ---
-title: "Spaghetti Meat Sauce"
+title: "Spaghetti Meat / Pasta Sauce"
 description: ""
 coverImage: ""
-tags: ["spaghetti", "sauce"]
+tags: ["spaghetti", "pasta", "sauce"]
 ---
 
-# Spaghetti Meat Sauce
+# Spaghetti Meat / Pasta Sauce
 
 Serves: 4-6
 
@@ -31,4 +31,6 @@ Serves: 4-6
 5. Cover and simmer on low heat for 30-45 minutes, stirring occasionally.
 6. Serve sauce over cooked spaghetti (according to package directions).
 
-_**Perfecto!**_
+\* For plain pasta sauce, skip steps 1 and 2.
+
+\*\* Try adding other ingredients in step 3 such as freshly shredded/grated cheese or vegetables like mushrooms or peppers.
